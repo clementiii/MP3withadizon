@@ -214,10 +214,6 @@ class AirconTaxi extends TaxiMeter {
                 ?>
             </div>
         </div>
-        
-        <div class="text-center mt-4">
-            <p class="text-muted">© <?php echo date('Y'); ?> Taxi Meter System</p>
-        </div>
     </div>
 
     <!-- Bootstrap JS Bundle with Popper -->
